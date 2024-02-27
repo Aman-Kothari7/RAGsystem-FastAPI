@@ -16,6 +16,8 @@ This project implements a Retrieval-Augmented Generation (RAG) system specifical
 `cd <project-directory>`
 3. Install the required Python packages:
 `pip install -r requirements.txt`
+4. Create .env file and store openAI API key:
+`OPENAI_API_KEY= Enter your api key here`
 
 ## Usage
 To start the FastAPI server and access the web interface: 
