@@ -11,11 +11,11 @@ This project implements a Retrieval-Augmented Generation (RAG) system specifical
 
 ### Steps
 1. Clone the repository:
-'git clone <repository-url>'
+`git clone <repository-url>`
 2. Navigate to the project directory:
-'cd <project-directory>'
+`cd <project-directory>`
 3. Install the required Python packages:
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 ## Usage
 To start the FastAPI server and access the web interface: 
