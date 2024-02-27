@@ -37,6 +37,9 @@ Navigate to `http://127.0.0.1:8000/` in your web browser to interact with the sy
 - `pandas`: Provides high-performance, easy-to-use data structures, and data analysis tools for Python.
 - `Jinja2`: A full-featured template engine for Python, used here for rendering the web interface.
 
+## Outputs 
+See all outputs in the `output_images` folder 
+
 ## Future Improvements
 - Expand the dataset to include more comprehensive RBI notifications.
 - Enhance HTML parsing capabilities to extract and utilize more structured data from notifications.
